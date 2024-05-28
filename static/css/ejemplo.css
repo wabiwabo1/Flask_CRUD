@@ -1,0 +1,13 @@
+body{
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/506/48/29/forest-cool-pc-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-family:  cursive;
+    font-size: 1.5em ;
+    text-shadow: rgba(255, 255, 255, 0.253) 5px 5px 6px ;
+}
